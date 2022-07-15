@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background_root_color">#050B18</color>
+    <color name="background_yellow_color">#F4D144</color>
+    <color name="text_download_color">#45454D</color>
+    <color name="background_status_bar_color">#00FFFFFF</color>
+    <color name="background_floating_action_button_color">#47FFFFFF</color>
+    <color name="tag_color">#3D44A9F4</color>
+    <color name="tag_text_color">#44A9F4</color>
+    <color name="game_is_text_color">#B3EEF2FB</color>
+    <color name="review_header_text_color">#EEF2FB</color>
+    <color name="text_downloads_near_mark_color">#A8ADB7</color>
+    <color name="date_comment_color">#66FFFFFF</color>
+    <color name="comment_color">#A8ADB7</color>
 </resources>
